@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="操作说明/tesla_skin_test.png" alt="RoboLab Tesla Aligner V5.1 Logo" width="600" />
+  <img src="操作说明/tesla_skin_test.png" alt="RoboLab Tesla Aligner V5.1 Logo" width="800" />
 
   # RoboLab Tesla Aligner V5.1 (特斯拉全能对齐工具)
 
